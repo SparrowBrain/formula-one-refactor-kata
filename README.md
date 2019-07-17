@@ -11,6 +11,8 @@ Season has <x> races. At the end of the race, pilots are awarded points:
 9. 2 pts.
 10. 1 pt.
 
+Calculator accepts a collection of race results (driver finishing positions for each race), adds it up and returns a collection of driver standings with points. An index in these collections signifies a position ([0] is 1st, [1] is 2nd, etc).
+
 Final season standings are calculated by adding up points for each pilot.
 
 ## Purpose
